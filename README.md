@@ -1,4 +1,4 @@
-# Fusion 360 Ckeckliste
+# Fusion 360 Checkliste
 
 # Design
 
@@ -80,6 +80,3 @@ Komponenten haben folgende Vorteile gegenüber Körpern.
 - Prüfe ob alle Komponenten fixiert sind. Sie können durch eine Skizze, ein Gelenk oder den Befehl „fixieren&quot; festgelegt werden. Nur dort wo bewegliche „Gelenke&quot; definiert wurden sollte eine Bewegung möglich sein.
 - Prüfe die Skzizzen durch Maßänderungen.
 
-|   |   |   |
-| --- | --- | --- |
-|   |   |   |
