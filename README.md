@@ -1,6 +1,5 @@
-# Fusion 360 Checkliste
+# Autodesk Fusion 360 Tips
 
-# Design
 
 ## Skizzen
 
@@ -81,11 +80,11 @@ Komponenten haben folgende Vorteile gegenüber Körpern.
 - Prüfe ob alle Komponenten fixiert sind. Sie können durch eine Skizze, ein Gelenk oder den Befehl „fixieren&quot; festgelegt werden. Nur dort wo bewegliche „Gelenke&quot; definiert wurden sollte eine Bewegung möglich sein.
 - Prüfe die Skzizzen durch Maßänderungen.
 
-##Performance
+## Performance
 
 - Komplexe Skizzen und Spiegelungen/Muster in Skizzen kosten viel Rechenleistung.
 - Komplexe Muster gehören in Köpern und nicht in Skizzen.
 - Ausgeformte Gewinde kosten viel Rechenleistung.
 - Komplexe Modellen erfordern einen I5/Ryzen5 oder besser und eine leistungsfähige Grafikarte.
 - Beim lokalen Rendern zählt nur die Rechenleistung der CPU.
-- Ein Arbeitsspeicher von 16GB ist absolut ausreichend.
+- Ein Arbeitsspeicher von 16 GB ist absolut ausreichend.
