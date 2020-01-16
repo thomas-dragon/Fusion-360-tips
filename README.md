@@ -19,7 +19,8 @@
 - Wandle Linien welche nicht für weitere Operationen benötigt werden (Extrusion etc.) in Konstruktionslinien um.
 - Lege die Skizze in der richtigen Ebene an.
 - Skizzen lassen sich im Gegensatz zu Körpern, Komponenten direkt in andere Fusion Dateien kopieren und einfügen.
-- Aktivierung die „Projektionsverknüpfung&quot; bei der Projektion von Skizzen/Körpern damit Änderungen übernommen werden.
+- Aktivierung die „Projektionsverknüpfung", bei der Projektion von Skizzen/Körpern werden damit Änderungen übernommen werden.
+- Nutze "Skizzenebene neu definieren" wenn die Sizze ihre Bezugsebene verloren hat.
 
 ## Parameter
 
@@ -33,10 +34,10 @@
 
 ## Ablauf
 
-- Definiere globale Skizzen um spätere Teile anzuordnen. Das ist oftmals übersichtlicher als „Gelenke&quot; zu verwenden. Fixiere diese Teile.
+- Definiere globale Skizzen um spätere Teile anzuordnen. Das ist oftmals übersichtlicher als „Gelenke&quot; zu verwenden. Fixiere diese Skizzen.
 - Definiere für jedes Bauteil eine Komponente. Aktiviere diese und arbeite innerhalb dieser Komponente. Deine Skizzen und Körper werden hier angelegt.
 - Bei späteren Änderungen aktiviere wieder diese Komponente und gehe auch in der Zeitleiste auf diese Komponente zurück.
-- Komponenten könne auch nur der Ordnung dienen und einfach nur Baugruppen zusammenfassen.
+- Komponenten könne auch nur der Ordnung dienen und einfach nur weitere Komponenten zusammenfassen.
 - Fixiere Skizzen und Komponenten wenn möglich.
 - Speichere oft.
 - Lagere komplexe Bauteile in andere Fusion Dateien aus und verknüpfe sie durch „Gelenke&quot;.
@@ -80,3 +81,11 @@ Komponenten haben folgende Vorteile gegenüber Körpern.
 - Prüfe ob alle Komponenten fixiert sind. Sie können durch eine Skizze, ein Gelenk oder den Befehl „fixieren&quot; festgelegt werden. Nur dort wo bewegliche „Gelenke&quot; definiert wurden sollte eine Bewegung möglich sein.
 - Prüfe die Skzizzen durch Maßänderungen.
 
+##Performance
+
+- Komplexe Skizzen und Spiegelungen/Muster in Skizzen kosten viel Rechenleistung.
+- Komplexe Muster gehören in Köpern und nicht in Skizzen.
+- Ausgeformte Gewinde kosten viel Rechenleistung.
+- Komplexe Modellen erfordern einen I5/Ryzen5 oder besser und eine leistungsfähige Grafikarte.
+- Beim lokalen Rendern zählt nur die Rechenleistung der CPU.
+- Ein Arbeitsspeicher von 16GB ist absolut ausreichend.
