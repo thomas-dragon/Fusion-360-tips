@@ -1,6 +1,8 @@
 # Autodesk Fusion 360 Tips
 https://raw.githubusercontent.com/thomas-dragon/Fusion-360-tips/master/Autodesk%20Fusion%20360%20Tips.jpg
 
+![Autodesk Fusion 360 Tips](https://raw.githubusercontent.com/thomas-dragon/Fusion-360-tips/master/Autodesk%20Fusion%20360%20Tips.jpg)
+
 ## Skizzen
 
 - Ordne das Grunddesign durch mehrere miteinander verknüpfte (Projektions) Skizzen. Am besten eine pro Achse.
